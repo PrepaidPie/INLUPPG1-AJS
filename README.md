@@ -1,5 +1,5 @@
 # INLUPPG1-AJS
-AngularJS inlämningsuppgift 1 - Oliver Larsson
+AngularJS inlämningsuppgift 1
 
 Du ska i denna inlämningsuppgift utnyttja dina kunskaper och färdigheter som du fått från föregående kurs och göra om design till något verkligt. Denna inlämningsuppgift ligger till grund för kommande inlämningsuppgifter.
 
